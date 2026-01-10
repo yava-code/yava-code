@@ -1,4 +1,6 @@
 # 💫 About Me:
+My new research website 🧪 :
+https://thinking-mode.vercel.app/
 🔭 I’m currently working on big  ML project<br>👯 I’m looking to collaborate on any project, just DM me<br>🤝 I’m looking for help with webscraping<br>🌱 I’m currently learning deep learning<br>⚡ Fun fact the first version of Git was created by Linus Torvalds in just 10 days in 2005? <br>This was after he stopped using the proprietary BitKeeper version control system.
 
 My website: https://yava-code.github.io/
