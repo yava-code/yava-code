@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Varfolomii Yasenoviy — Full-Stack Engineer & AI Integrator" width="100%">
+  <img src="KtIcT.jpg" alt="Varfolomii Yasenoviy — Full-Stack Engineer & AI Integrator" width="100%">
 </p>
 
 <p align="center">
