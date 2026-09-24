@@ -18,17 +18,17 @@ Windows port of Pulse. Tracks AI coding quotas and rate limits from the edge of 
 
 Organizes large Telegram accounts. It classifies chats, proposes folders, and makes bulk cleanup reviewable before changes are applied.
 
+
+
+## `/selected`
+
 ### [noitarl](https://github.com/yava-code/noitarl)
 
 An RL environment for Noita. Python talks to the game through a Lua bridge while a PPO agent learns from pixels and game state.
 
-## `/selected`
+[freebuff-api](https://github.com/yava-code/freebuff-api)  
+One command turns your local Freebuff Desktop login into an OpenAI-compatible API on your own machine:
 
-[PureFlow](https://github.com/yava-code/PureFlow)  
-A VSCodium distribution for using AI without giving up the normal editor, debugger, tests, terminal, and source control.
-
-[SteamMCP](https://github.com/yava-code/SteamMCP)  
-An MCP server that exposes Steam profiles, games, achievements, news, and market data to LLM clients.
 
 ## `/interests`
 
