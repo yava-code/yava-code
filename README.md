@@ -27,8 +27,10 @@ Organizes large Telegram accounts. It classifies chats, proposes folders, and ma
 An RL environment for Noita. Python talks to the game through a Lua bridge while a PPO agent learns from pixels and game state.
 
 [freebuff-api](https://github.com/yava-code/freebuff-api)  
-One command turns your local Freebuff Desktop login into an OpenAI-compatible API on your own machine:
+One command turns your local Freebuff Desktop login into an OpenAI-compatible API on your own machine
 
+[Fly brain game](https://github.com/yava-code/flythegame)  
+a real fruit-fly brain in the loop
 
 ## `/interests`
 
