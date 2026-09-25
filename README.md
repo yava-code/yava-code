@@ -32,6 +32,9 @@ One command turns your local Freebuff Desktop login into an OpenAI-compatible AP
 [Fly brain game](https://github.com/yava-code/flythegame)  
 a real fruit-fly brain in the loop
 
+[git-chill](https://github.com/yava-code/git-chill)  | [agent setup](https://git-chill-site.yasenvarf.workers.dev/)
+git-chill replays a real commit history on a compressed schedule. Long idle gaps clamp to coffee-break length so the result looks like a person who codes in bursts, and the schedule simulator below shows the exact timeline before anything runs.
+
 ## `/interests`
 
 ```text
