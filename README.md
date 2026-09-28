@@ -10,6 +10,10 @@ focus       agents / tools / automation / data
 
 ## `/current`
 
+### [OnlyDrive](https://github.com/yava-code/OnlyDrive)
+
+Google Drive as a local disk, S3/WebDAV endpoint and MCP server, in one command.
+
 ### [WinPulse](https://github.com/yava-code/WinPulse)
 
 Windows port of Pulse. Tracks AI coding quotas and rate limits from the edge of the screen.
