@@ -8,9 +8,11 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-<a href="https://github.com/yava-code/OnlyDrive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-onlydrive-dark.svg"><img src="assets/project-onlydrive-light.svg" width="49%" alt="OnlyDrive"></picture></a>&nbsp;<a href="https://github.com/yava-code/noitarl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-noitarl-dark.svg"><img src="assets/project-noitarl-light.svg" width="49%" alt="noitarl"></picture></a>
+<a href="https://github.com/yava-code/noitarl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-noitarl-dark.svg"><img src="assets/project-noitarl-light.svg" width="49%" alt="noitarl"></picture></a>&nbsp;<a href="https://github.com/yava-code/WinPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-winpulse-dark.svg"><img src="assets/project-winpulse-light.svg" width="49%" alt="WinPulse"></picture></a>
 
-<a href="https://github.com/yava-code/WinPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-winpulse-dark.svg"><img src="assets/project-winpulse-light.svg" width="49%" alt="WinPulse"></picture></a>&nbsp;<a href="https://github.com/yava-code/Telegram-Cleaner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegram-cleaner-dark.svg"><img src="assets/project-telegram-cleaner-light.svg" width="49%" alt="Telegram-Cleaner"></picture></a>
+<a href="https://github.com/yava-code/OnlyDrive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-onlydrive-dark.svg"><img src="assets/project-onlydrive-light.svg" width="49%" alt="OnlyDrive"></picture></a>&nbsp;<a href="https://github.com/yava-code/Telegram-Cleaner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegram-cleaner-dark.svg"><img src="assets/project-telegram-cleaner-light.svg" width="49%" alt="Telegram-Cleaner"></picture></a>
+
+<a href="https://github.com/yava-code/flythegame"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-flythegame-dark.svg"><img src="assets/project-flythegame-light.svg" width="49%" alt="flythegame"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 

@@ -1,0 +1,658 @@
+{
+ "key": "790f4156",
+ "stars": 43,
+ "contributions": 1583,
+ "repos": 43,
+ "followers": 7,
+ "languages": [
+  [
+   "Python",
+   1705511
+  ],
+  [
+   "Jupyter Notebook",
+   1066337
+  ],
+  [
+   "TypeScript",
+   385621
+  ],
+  [
+   "C#",
+   339278
+  ],
+  [
+   "Go",
+   265386
+  ],
+  [
+   "HTML",
+   97269
+  ],
+  [
+   "JavaScript",
+   82338
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 11,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 31,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 24,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 13,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 23,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 18
+ },
+ "pins": [
+  {
+   "name": "noitarl",
+   "url": "https://github.com/yava-code/noitarl",
+   "text": "Reinforcement Learning agent for Noita - train AI to play the roguelike using PPO and custom Lua-Python bridge",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "deep-learning",
+    "game-ai",
+    "gym",
+    "lua",
+    "machine-learning",
+    "noita",
+    "ppo",
+    "python",
+    "reinforcement-learning",
+    "roguelike"
+   ]
+  },
+  {
+   "name": "WinPulse",
+   "url": "https://github.com/yava-code/WinPulse",
+   "text": "A lightweight, elegant screen-edge monitor for your AI coding allowances on Windows.",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
+   "topics": [
+    "agentic-ai",
+    "ai",
+    "csharp",
+    "monitoring",
+    "swift",
+    "windows"
+   ]
+  },
+  {
+   "name": "OnlyDrive",
+   "url": "https://github.com/yava-code/OnlyDrive",
+   "text": "Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support.",
+   "fork": false,
+   "stars": 26,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "Telegram-Cleaner",
+   "url": "https://github.com/yava-code/Telegram-Cleaner",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "flythegame",
+   "url": "https://github.com/yava-code/flythegame",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "OnlyDrive",
+   "url": "https://github.com/yava-code/OnlyDrive",
+   "text": "Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support.",
+   "fork": false,
+   "stars": 26,
+   "language": "Go",
+   "topics": []
+  },
+  {
+   "name": "noitarl",
+   "url": "https://github.com/yava-code/noitarl",
+   "text": "Reinforcement Learning agent for Noita - train AI to play the roguelike using PPO and custom Lua-Python bridge",
+   "fork": false,
+   "stars": 3,
+   "language": "Python",
+   "topics": [
+    "deep-learning",
+    "game-ai",
+    "gym",
+    "lua",
+    "machine-learning",
+    "noita",
+    "ppo",
+    "python",
+    "reinforcement-learning",
+    "roguelike"
+   ]
+  },
+  {
+   "name": "WinPulse",
+   "url": "https://github.com/yava-code/WinPulse",
+   "text": "A lightweight, elegant screen-edge monitor for your AI coding allowances on Windows.",
+   "fork": false,
+   "stars": 2,
+   "language": "C#",
+   "topics": [
+    "agentic-ai",
+    "ai",
+    "csharp",
+    "monitoring",
+    "swift",
+    "windows"
+   ]
+  },
+  {
+   "name": "Telegram-Cleaner",
+   "url": "https://github.com/yava-code/Telegram-Cleaner",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "flythegame",
+   "url": "https://github.com/yava-code/flythegame",
+   "text": "",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "freebuff-api",
+   "url": "https://github.com/yava-code/freebuff-api",
+   "text": "freebuff api server without ads",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": [
+    "llm",
+    "openai",
+    "reverse-engineering",
+    "server",
+    "frebuff"
+   ]
+  },
+  {
+   "name": "DramaMeter-2026",
+   "url": "https://github.com/yava-code/DramaMeter-2026",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "telegram-vps-monitor",
+   "url": "https://github.com/yava-code/telegram-vps-monitor",
+   "text": "Telegram bot + local API to monitor your VPS and project progress (jobs, parsers, bots). Multi-project status, alerts, systemd control.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "crest-implant",
+   "url": "https://github.com/yava-code/crest-implant",
+   "text": "This concept note proposes ChemGuard — a subcutaneous implant designed to deliver emergency benzodiazepine medication during generalised tonic-clonic seizures without electronics or external triggers. The mechanism relies on seizure-induced lactic acidosis as a physiological trigger for pH-sensitive polymer erosion and controlled midazolam release.",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "Verified-Drone-Altitude",
+   "url": "https://github.com/yava-code/Verified-Drone-Altitude",
+   "text": "Implementation and formal mathematical verification (using Z3 SMT solver) of safety-critical drone collision avoidance logic. Project includes real-time Python visualization and Manim explanations.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "formal-verification",
+    "mathematics",
+    "mission-critical",
+    "python",
+    "z3-solver"
+   ]
+  },
+  {
+   "name": "Python_WeatherApp",
+   "url": "https://github.com/yava-code/Python_WeatherApp",
+   "text": "A Python based weather app.",
+   "fork": true,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ThinkingMode",
+   "url": "https://github.com/yava-code/ThinkingMode",
+   "text": "Why thinking mode in AI is important and how it works",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "ai",
+    "angular",
+    "good-first-issue",
+    "machine-learning",
+    "ml",
+    "typescript",
+    "vercel"
+   ]
+  },
+  {
+   "name": "SteamMCP",
+   "url": "https://github.com/yava-code/SteamMCP",
+   "text": "Our project is an intermediary service that turns an ordinary chatbot into a smart Steam assistant. It will be able to analyze game assets, monitor the market and even act as a personal sales agent.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "api",
+    "mcp",
+    "mcp-server",
+    "python",
+    "steam",
+    "good-first-issue"
+   ]
+  },
+  {
+   "name": "yava-code",
+   "url": "https://github.com/yava-code/yava-code",
+   "text": "readme",
+   "fork": false,
+   "stars": 1,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "HelloVistulaLab1",
+   "url": "https://github.com/yava-code/HelloVistulaLab1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "cham",
+   "url": "https://github.com/yava-code/cham",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "SPEC_AI",
+   "url": "https://github.com/yava-code/SPEC_AI",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "vibe-wise-mcp",
+   "url": "https://github.com/yava-code/vibe-wise-mcp",
+   "text": "Universal MCP server port of VibeWise: design-first gate for any coding agent (Claude Code, Cursor, Codex, Antigravity). Ask the user's approach, record decisions in .vibe-wise/, write code only after approval.",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": [
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design-first",
+    "mcp",
+    "model-context-protocol",
+    "vibewise"
+   ]
+  },
+  {
+   "name": "Tessera-1B-Nano",
+   "url": "https://github.com/yava-code/Tessera-1B-Nano",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "openbot",
+   "url": "https://github.com/yava-code/openbot",
+   "text": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "git-chill",
+   "url": "https://github.com/yava-code/git-chill",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "quiz",
+   "url": "https://github.com/yava-code/quiz",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "petrov-",
+   "url": "https://github.com/yava-code/petrov-",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "Strategem",
+   "url": "https://github.com/yava-code/Strategem",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AzureKit",
+   "url": "https://github.com/yava-code/AzureKit",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Bicep",
+   "topics": []
+  },
+  {
+   "name": "auto-parser",
+   "url": "https://github.com/yava-code/auto-parser",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "auto-clipper",
+   "url": "https://github.com/yava-code/auto-clipper",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ml-ops-starter",
+   "url": "https://github.com/yava-code/ml-ops-starter",
+   "text": "FastAPI-based sentiment analysis service with Docker containerization and GitHub Actions CI/CD pipeline.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "erowid-2026",
+   "url": "https://github.com/yava-code/erowid-2026",
+   "text": "Latent Semantic Analysis performed on scraped dataset from erowid.com",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "EuroSAT-Classification",
+   "url": "https://github.com/yava-code/EuroSAT-Classification",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "Garbage-Classifier",
+   "url": "https://github.com/yava-code/Garbage-Classifier",
+   "text": "Garbage Classifier is a smart web application built with Streamlit, allowing users to classify waste in real time using a trained Keras deep learning model. Whether it's biodegradable or non-biodegradable, this app helps promote sustainable waste segregation with the power of machine learning and computer vision.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "NeedleParser",
+   "url": "https://github.com/yava-code/NeedleParser",
+   "text": "shop info parser for https://www.needletravel.com/",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "WslMonitor",
+   "url": "https://github.com/yava-code/WslMonitor",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "yava-code.github.io",
+   "url": "https://github.com/yava-code/yava-code.github.io",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "social-news-bot",
+   "url": "https://github.com/yava-code/social-news-bot",
+   "text": "🤖 AI News Agent An intelligent automated system that fetches tech news, generates engaging social media posts using AI, and automatically posts to LinkedIn, Twitter, and other platforms at optimal times.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "VistulaJavaSecondTask",
+   "url": "https://github.com/yava-code/VistulaJavaSecondTask",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "VitsulaJavaTaskOne",
+   "url": "https://github.com/yava-code/VitsulaJavaTaskOne",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Clock-2.0",
+   "url": "https://github.com/yava-code/Clock-2.0",
+   "text": "A basic Clock made using Java OOP Concepts and GUI elements",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "Contribute1",
+   "url": "https://github.com/yava-code/Contribute1",
+   "text": "contribute to my #hacktoberfest repository, and get your swags",
+   "fork": true,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "wikichat",
+   "url": "https://github.com/yava-code/wikichat",
+   "text": "This project is a research assistant chatbot powered by OpenAI's natural language processing capabilities. The chatbot is designed to assist users in their research endeavors by providing information, answering questions, and offering suggestions on various topics.",
+   "fork": true,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "JetbrainsLock",
+   "url": "https://github.com/yava-code/JetbrainsLock",
+   "text": "Delete lock files that forbid to open Jetbrains ide",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "anonscreens",
+   "url": "https://github.com/yava-code/anonscreens",
+   "text": "Anonymize your screenshot on Linux",
+   "fork": false,
+   "stars": 0,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "imdb-rf",
+   "url": "https://github.com/yava-code/imdb-rf",
+   "text": "RandomForestTest",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  }
+ ]
+}
