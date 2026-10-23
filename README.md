@@ -1,58 +1,25 @@
-# /proc/yava
+<div align="center">
 
-```text
-name        yava
-location    Warsaw
-state       running
-mode        building
-focus       agents / tools / automation / data
-```
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Привет, я yava"></picture>
 
-## `/current`
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="27.254%" alt=""></picture><a href="https://t.me/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="18.122%" alt="telegram"></picture></a><a href="https://discord.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="16.552%" alt="discord"></picture></a><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="10.814%" alt="x"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="27.254%" alt=""></picture>
 
-### [OnlyDrive](https://github.com/yava-code/OnlyDrive)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg"><img src="assets/about-light.svg" width="100%" alt="Обо мне"></picture>
 
-Google Drive as a local disk, S3/WebDAV endpoint and MCP server, in one command.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="Стек"></picture>
 
-### [WinPulse](https://github.com/yava-code/WinPulse)
+<a href="https://github.com/yava-code/OnlyDrive"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-onlydrive-dark.svg"><img src="assets/project-onlydrive-light.svg" width="49%" alt="OnlyDrive"></picture></a>&nbsp;<a href="https://github.com/yava-code/noitarl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-noitarl-dark.svg"><img src="assets/project-noitarl-light.svg" width="49%" alt="noitarl"></picture></a>
 
-Windows port of Pulse. Tracks AI coding quotas and rate limits from the edge of the screen.
+<a href="https://github.com/yava-code/WinPulse"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-winpulse-dark.svg"><img src="assets/project-winpulse-light.svg" width="49%" alt="WinPulse"></picture></a>&nbsp;<a href="https://github.com/yava-code/Telegram-Cleaner"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-telegram-cleaner-dark.svg"><img src="assets/project-telegram-cleaner-light.svg" width="49%" alt="Telegram-Cleaner"></picture></a>
 
-### [Telegram-Cleaner](https://github.com/yava-code/Telegram-Cleaner)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="Активность на GitHub"></picture>
 
-Organizes large Telegram accounts. It classifies chats, proposes folders, and makes bulk cleanup reviewable before changes are applied.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Серия"></picture>
 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
 
+<a href="https://example.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="Мой сайт"></picture></a>&nbsp;&nbsp;<a href="https://github.com/yava-code?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="Все репозитории"></picture></a>
 
-## `/selected`
+<a href="https://metawka.github.io/expressive-profile/?from=yava-code"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
 
-### [noitarl](https://github.com/yava-code/noitarl)
-
-An RL environment for Noita. Python talks to the game through a Lua bridge while a PPO agent learns from pixels and game state.
-
-[freebuff-api](https://github.com/yava-code/freebuff-api)  
-One command turns your local Freebuff Desktop login into an OpenAI-compatible API on your own machine
-
-[Fly brain game](https://github.com/yava-code/flythegame)  
-a real fruit-fly brain in the loop
-
-[git-chill](https://github.com/yava-code/git-chill)  | [agent setup](https://git-chill-site.yasenvarf.workers.dev/)
-git-chill replays a real commit history on a compressed schedule. Long idle gaps clamp to coffee-break length so the result looks like a person who codes in bursts, and the schedule simulator below shows the exact timeline before anything runs.
-
-## `/interests`
-
-```text
-agents
-reinforcement learning
-developer tools
-automation
-data systems
-odd software experiments
-```
-
-## `/contact`
-
-```text
-mail        yasenvarf@gmail.com
-github      yava-code
-```
+</div>
