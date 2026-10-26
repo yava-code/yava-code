@@ -1,6 +1,6 @@
 {
- "key": "c4b6b57d",
- "stars": 43,
+ "key": "9e3d42be",
+ "stars": 42,
  "contributions": 1623,
  "repos": 43,
  "followers": 7,
@@ -173,7 +173,7 @@
    "url": "https://github.com/yava-code/OnlyDrive",
    "text": "Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support.",
    "fork": false,
-   "stars": 26,
+   "stars": 25,
    "language": "Go",
    "topics": []
   },
@@ -202,7 +202,7 @@
    "url": "https://github.com/yava-code/OnlyDrive",
    "text": "Zero-friction multi-account Google Drive pooler with native mounting, S3 emulation, and Model Context Protocol (MCP) support.",
    "fork": false,
-   "stars": 26,
+   "stars": 25,
    "language": "Go",
    "topics": []
   },
