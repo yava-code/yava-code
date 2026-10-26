@@ -1,13 +1,13 @@
 {
- "key": "9e3d42be",
+ "key": "6f9cc014",
  "stars": 42,
- "contributions": 1623,
- "repos": 43,
+ "contributions": 1625,
+ "repos": 44,
  "followers": 7,
  "languages": [
   [
    "Python",
-   1705511
+   1828967
   ],
   [
    "Jupyter Notebook",
@@ -27,11 +27,11 @@
   ],
   [
    "HTML",
-   97269
+   100837
   ],
   [
    "JavaScript",
-   82338
+   98219
   ]
  ],
  "days": [
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 12,
     "day": 26,
     "today": true
    },
@@ -366,6 +366,15 @@
    "fork": false,
    "stars": 1,
    "language": null,
+   "topics": []
+  },
+  {
+   "name": "hotkey-answer-badge",
+   "url": "https://github.com/yava-code/hotkey-answer-badge",
+   "text": "Hotkey → screenshot → vision LLM → stealth tab badge (Chrome MV3 + Python tray)",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
