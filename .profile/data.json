@@ -1,7 +1,7 @@
 {
- "key": "48984baa",
- "stars": 45,
- "contributions": 1700,
+ "key": "272a153",
+ "stars": 46,
+ "contributions": 1709,
  "repos": 45,
  "followers": 7,
  "languages": [
@@ -116,12 +116,12 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 9,
     "day": 2,
     "today": false
    },
    {
-    "c": 14,
+    "c": 19,
     "day": 3,
     "today": true
    },
@@ -263,6 +263,24 @@
    "stars": 2,
    "language": "Python",
    "topics": []
+  },
+  {
+   "name": "vibe-wise-mcp",
+   "url": "https://github.com/yava-code/vibe-wise-mcp",
+   "text": "Universal MCP server port of VibeWise: design-first gate for any coding agent (Claude Code, Cursor, Codex, Antigravity). Ask the user's approach, record decisions in .vibe-wise/, write code only after approval.",
+   "fork": false,
+   "stars": 1,
+   "language": "TypeScript",
+   "topics": [
+    "antigravity",
+    "claude-code",
+    "codex",
+    "cursor",
+    "design-first",
+    "mcp",
+    "model-context-protocol",
+    "vibewise"
+   ]
   },
   {
    "name": "freebuff-api",
@@ -416,24 +434,6 @@
    "stars": 0,
    "language": "Python",
    "topics": []
-  },
-  {
-   "name": "vibe-wise-mcp",
-   "url": "https://github.com/yava-code/vibe-wise-mcp",
-   "text": "Universal MCP server port of VibeWise: design-first gate for any coding agent (Claude Code, Cursor, Codex, Antigravity). Ask the user's approach, record decisions in .vibe-wise/, write code only after approval.",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": [
-    "antigravity",
-    "claude-code",
-    "codex",
-    "cursor",
-    "design-first",
-    "mcp",
-    "model-context-protocol",
-    "vibewise"
-   ]
   },
   {
    "name": "Tessera-1B-Nano",
