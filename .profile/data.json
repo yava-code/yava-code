@@ -1,5 +1,5 @@
 {
- "key": "2ccb242c",
+ "key": "dcb01ded",
  "stars": 48,
  "contributions": 1846,
  "repos": 45,
@@ -128,9 +128,13 @@
    {
     "c": 1,
     "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
     "today": true
    },
-   null,
    null,
    null
   ]
